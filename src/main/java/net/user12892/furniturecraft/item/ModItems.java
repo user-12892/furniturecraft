@@ -16,7 +16,7 @@ public class ModItems {
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Furniturecraft_Items)));
 
     public static final RegistryObject<Item> RUBY = ITEMS.register("ruby",
-            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Furniturecraft_Items)));
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Furniturecraft_Minerals)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

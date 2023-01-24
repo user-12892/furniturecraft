@@ -2,5 +2,10 @@
   "item.furniturecraft.brush": "Brush",
   "item.furniturecraft.ruby": "Ruby",
 
-  "itemGroup.FurniturecraftItems": "Furniturecraft Items"
+  "block.furniturecraft.ruby_block": "Block of Ruby",
+  "block.furniturecraft.ruby_ore": "Ruby Ore",
+  "block.furniturecraft.deepslate_ruby_ore": "Deepslate Ruby Ore",
+
+  "itemGroup.FurniturecraftItems": "Furniturecraft Items",
+  "itemGroup.FurniturecraftMinerals": "Furniturecraft Minerals"
 }

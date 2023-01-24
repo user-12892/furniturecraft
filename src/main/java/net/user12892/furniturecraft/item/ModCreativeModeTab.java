@@ -11,4 +11,11 @@ public class ModCreativeModeTab {
         }
     };
 
+    public static final CreativeModeTab Furniturecraft_Minerals = new CreativeModeTab("FurniturecraftMinerals") {
+        @Override
+        public ItemStack makeIcon() {
+            return new ItemStack(ModItems.RUBY.get());
+        }
+    };
+
 }
