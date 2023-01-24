@@ -13,7 +13,10 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, Furniturecraft.MOD_ID);
 
     public static final RegistryObject<Item> BRUSH  = ITEMS.register("brush",
-            () -> new Item(new Item.Properties().tab(ModCreativeModTab.Furniturecraft_Items)));
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Furniturecraft_Items)));
+
+    public static final RegistryObject<Item> RUBY = ITEMS.register("ruby",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.Furniturecraft_Items)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
