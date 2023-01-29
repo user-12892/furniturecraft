@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "$$$",
+    "$$$",
+    "$$$"
+  ],
+  "key": {
+    "$": {
+      "item": "furniturecraft:ruby"
+    }
+  },
+  "result": {
+    "item": "furniturecraft:ruby_block"
+  }
+}
