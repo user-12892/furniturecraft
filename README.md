@@ -10,4 +10,5 @@
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/user-12892/furniturecraft?label=Repo%20size&logo=GitHub">
 </p>
 <hr>
-<h1>Mod</h1>
+<h1>How to install</h1>
+<a href="https://modrinth.com/mod/furniturecraft">Visit the mod page at Modrinth</a>
