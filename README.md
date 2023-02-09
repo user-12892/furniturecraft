@@ -4,7 +4,7 @@
 <p align="center">
 <img alt="Modrinth Game Versions" src="https://img.shields.io/modrinth/game-versions/furniturecraft?label=Version&logo=Modrinth">
 <img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/furniturecraft?label=Downloads&logo=Modrinth">
-<img alt="GitHub" src="https://img.shields.io/github/license/user-12892/furniturecraft?label=License&logo=GitHub">
+<img alt="GitHub license" src="https://img.shields.io/github/license/user-12892/furniturecraft?label=License&logo=GitHub">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/user-12892/furniturecraft?label=Last%20commit&logo=Git">
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/user-12892/furniturecraft?label=Issues&logo=GitHub">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/user-12892/furniturecraft?label=Repo%20size&logo=GitHub">
