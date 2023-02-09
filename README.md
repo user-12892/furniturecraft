@@ -9,3 +9,4 @@
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/user-12892/furniturecraft?label=Issues&logo=GitHub">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/user-12892/furniturecraft?label=Repo%20size&logo=GitHub">
 </p>
+<hr>
