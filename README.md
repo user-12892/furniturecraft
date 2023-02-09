@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/n0MgoQI_d.png" alt="Logo" width="200"></p>
 <h1 align="center">Furniturecraft</h1>
-<p align="center">Furniturecraft is a minecraft mod that adds forniture in game</p>
+<p align="center">Furniturecraft is a minecraft mod that adds furniture in game</p>
 <p align="center">
 <img alt="Modrinth Game Versions" src="https://img.shields.io/modrinth/game-versions/furniturecraft?label=Version&logo=Modrinth">
 <img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/Furniturecraft?label=Downloads&logo=Modrinth">
