@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "furniturecraft:ruby_block",
+    "furniturecraft:ruby_ore",
+    "furniturecraft:deepslate_ruby_ore"
+  ]
+}
