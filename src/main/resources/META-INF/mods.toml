@@ -4,7 +4,7 @@ license="MIT License"
 issueTrackerURL="https://github.com/user-12892/furniturecraft/issues"
 [[mods]]
 modId="furniturecraft"
-version="0.0.10-1.19"
+version="0.0.11-1.19"
 displayName="Furniture Craft"
 logoFile="furniturecraft_icon.png"
 authors="User12892"
