@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/n0MgoQI_d.png" alt="Logo" width="200"></p>
+<p align="center"><img src="https://i.imgur.com/Ne2x7Oa_d.png" alt="Logo" width="200"></p>
 <h1 align="center">Furniturecraft</h1>
 <p align="center">Furniturecraft is a minecraft mod that adds furniture in game</p>
 <p align="center">
