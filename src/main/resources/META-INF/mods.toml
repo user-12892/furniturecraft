@@ -4,7 +4,7 @@ license="MIT License"
 issueTrackerURL="https://github.com/user-12892/furniturecraft/issues" #optional
 [[mods]]
 modId="furniturecraft"
-version="0.0.8-1.19"
+version="0.0.9-1.19"
 displayName="Furniture Craft"
 #displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
 logoFile="furniturecraft_icon.png"
@@ -36,4 +36,4 @@ ordering="NONE"
 side="CLIENT"
 # Catalogue Icon
 [modproperties.furniturecraft]
-catalogueImageIcon="furniturcraft_icon_catalogue.png"
+catalogueItemIcon="minecraft:paper"
