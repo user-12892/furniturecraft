@@ -4,10 +4,9 @@ license="MIT License"
 issueTrackerURL="https://github.com/user-12892/furniturecraft/issues"
 [[mods]]
 modId="furniturecraft"
-version="0.0.14-1.19"
+version="0.0.15-1.19"
 displayName="Furniture Craft"
 logoFile="furniturecraft_icon.png"
-itemIcon="minecraft:apple"
 authors="User12892"
 
 description='''
@@ -27,10 +26,3 @@ Furniturecraft!
     versionRange="[1.19,1.20)"
     ordering="NONE"
     side="BOTH"
-# Catalogue
-[[dependencies.furniturecraft]]
-modId="catalogue"
-mandatory=false
-versionRange="[1.6.2,)"
-ordering="NONE"
-side="CLIENT"
