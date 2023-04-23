@@ -7,7 +7,7 @@ public class ModCreativeModeTab {
     public static final CreativeModeTab Furniturecraft_Items = new CreativeModeTab("FurniturecraftItems") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.BRUSH.get());
+            return new ItemStack(ModItems.PAINTBRUSH.get());
         }
     };
 
