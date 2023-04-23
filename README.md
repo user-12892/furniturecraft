@@ -12,3 +12,4 @@
 <hr>
 <h1>How to install</h1>
 <a href="https://modrinth.com/mod/furniturecraft">Visit the mod page at Modrinth</a>
+<p>Drag the file to the mods folder</p>
